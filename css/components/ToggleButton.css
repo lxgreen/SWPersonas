@@ -1,0 +1,7 @@
+button.toggle {
+    background-color: white;
+}
+
+button.toggle.applied {
+    background-color: #bada55;
+}
